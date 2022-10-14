@@ -1,8 +1,8 @@
 #include <stdio.h>
-\**
-*printf - Entry
-*Return - Always 0
-*/
+#
+# printf - Entry
+# Return - Always 0
+#
 
 int main(void)
 {
