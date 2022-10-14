@@ -1,9 +1,9 @@
 #include <stdio.h>
-#
-# printf - Entry
-# Return - Always 0
-#
-
+\**
+  * main - Prints a text
+  * 
+  * Return - Always 0 (Successful)
+*/
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
