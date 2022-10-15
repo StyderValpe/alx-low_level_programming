@@ -1,5 +1,6 @@
 #include <time.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 /* betty style doc for main goes here */
 /**
@@ -9,7 +10,6 @@
  */
 
 int main(void)
-
 {
 	int n;
 
