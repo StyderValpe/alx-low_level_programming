@@ -2,6 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
+/* betty style doc for main goes here */
 /**
  * main - Printing
  * Return - Always 0 (Successful)
