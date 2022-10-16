@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-  * main - Entry
+  * main - Entry point
   * This programs print the size of various
   * types compiled and run on
   *
