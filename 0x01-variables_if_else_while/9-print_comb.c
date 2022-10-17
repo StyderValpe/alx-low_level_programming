@@ -4,7 +4,7 @@
 /**
  * main - entry point
  * Description: prints all possible combinations of single-digit numbers
- * Returns: 0
+ * Return: 0
  */
 int main(void)
 {
