@@ -3,21 +3,16 @@
 #include <stdlib.h>
 
 /**
- * main - Entry point
- *
- * Return: Always 0 (success)
+ * main - entry point
+ * Description: prints alphabet in lowercase
+ * Return: 0
  */
 
 int main(void)
 {
-	char c;
-
-	c = 'a';
-	while (c <= 'z')
-	{
-		putchar(c);
-		c++;
-	}
-	putchar('\n');
+	char ch = 'a';
+		for (ch = 'a'; ch <= 'z'; ch++)
+		putchar(ch);
+		putchar('\n');
 	return (0);
 }
